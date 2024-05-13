@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+    color: #333;
+}
+
+body{
+    width: 1200px;
+    height: 700px;
+    color: #333;
+    background-color: #fff;
+}
+
+.top{
+    width: 1200px;
+    height: 100px;
+    float: left;
+}
+
+.logo1{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: rgb(80, 79, 79);
+}
+
+.menu{
+    width: 1000px;
+    height: 100px;
+    float: left;
+    background-color: rgb(54, 54, 54);
+}
+
+.imgslide{
+    width: 1200px;
+    height: 300px;
+    background-color: rgb(107, 105, 105);
+}
+
+.contents{
+    width: 1200px;
+    height: 200px;
+}
+
+.notice{
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: rgb(39, 39, 39);
+}
+
+.gal{
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: rgb(58, 58, 58);
+}
+
+.sc{
+    width: 400px;
+    height: 200px;
+    float: left;
+    background-color: rgb(77, 76, 76);
+}
+
+.bottom{
+    width: 1200px;
+    height: 100px;
+}
+
+.logo2{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: rgb(77, 76, 76);
+}
+
+.copy{
+    width: 800px;
+    height: 100px;
+    float: left;
+    background-color: rgb(126, 125, 125);
+}
+
+.site{
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: rgb(128, 126, 126);
+}
